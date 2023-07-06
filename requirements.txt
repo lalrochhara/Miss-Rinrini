@@ -20,7 +20,7 @@ PySocks==1.7.1
 pytz==2021.1
 requests==2.26.0
 six==1.16.0
-Stellagban==0.2.11
+Rinrinigban==0.2.11
 TgCrypto==1.2.2
 toml==0.10.2
 tzlocal==2.1
