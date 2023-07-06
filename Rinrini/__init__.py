@@ -24,7 +24,7 @@ from pyrogram import Client
 from pyromod import listen
 
 from config import config
-from Rinrini.RinriniGban import RinriniClient
+from RinriniGban import RinriniClient
 
 from Rinrinigban import RinriniClient
 
