@@ -30,7 +30,7 @@ from config import config
 
 OWNER_ID = config.settings.owner
 BOT_ID = 6013121809
-BOT_NAME = Miss Jenny
+BOT_NAME = "Miss Jenny"
 BOT_USERNAME = myjennybot
 LOG_CHANNEL = config.settings.log.chat_id
 SUDO_USERS = config.settings.sudo_users
