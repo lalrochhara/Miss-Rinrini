@@ -29,9 +29,9 @@ from config import config
 #from rinrinigban import RinriniClient
 
 OWNER_ID = config.settings.owner
-BOT_ID = config.telegram.bot.id
-BOT_NAME = config.telegram.bot.name
-BOT_USERNAME = config.telegram.bot.username
+BOT_ID = 6013121809
+BOT_NAME = myjennybot
+BOT_USERNAME = Miss Jenny
 LOG_CHANNEL = config.settings.log.chat_id
 SUDO_USERS = config.settings.sudo_users
 PREFIX = config.settings.commands.prefix
