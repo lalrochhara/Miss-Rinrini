@@ -1,0 +1,28 @@
+[telegram]
+api_id = 0
+api_hash = ""
+
+[telegram.bot]
+bot_token = ""
+name = ""
+username = ""
+user_id = 0
+
+[database]
+database_url = ""
+
+[settings]
+owner = 0
+sudo_users = []
+
+[settings.commands]
+prefix = ['!', '/']
+
+[settings.log]
+chat_id = 0
+
+[settings.backup]
+chat_id = 0
+
+[api.Rinrini]
+api_key = ""
