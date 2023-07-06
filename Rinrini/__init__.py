@@ -26,7 +26,7 @@ from pyromod import listen
 from config import config
 from Rinrini.RinriniGban import RinriniClient
 
-#from Rinrinigban import RinriniClient
+from Rinrinigban import RinriniClient
 
 OWNER_ID = config.settings.owner
 BOT_ID = config.telegram.bot.id
