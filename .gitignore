@@ -134,7 +134,7 @@ RinriniSession.session
 Rinrini/RinriniSession.session
 test.py
 Rinrini/config.py 
-Rinrini/plugins/RinriniGban.py
+#Rinrini/plugins/RinriniGban.py
 # Ignore dynaconf secret files
 .secrets.*
 config.toml
