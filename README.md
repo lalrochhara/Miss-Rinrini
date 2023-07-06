@@ -1,4 +1,4 @@
-# Rinrini v2 <img src="https://cdn.discordapp.com/attachments/772889968838049802/845189008342777896/IMG_20210521_120844_190.jpg" width="37" height="37"> 
+# Rinrini v2 <img src="https://firebasestorage.googleapis.com/v0/b/baby-bawitlung-story.appspot.com/o/Image%20file%2FMY%20FFFF.jpg?alt=media&token=c8a2c316-99b6-47b4-9c19-b35a7ff45190" width="390" height="400"> 
 > The better group management bot.
 <hr>
 
@@ -19,7 +19,7 @@
 ### Installation
 
 ```
-$ git clone https://github.com/SpookyGang/Rinrini.git
+$ git clone https://github.com/lalrochhara/Rinrini.git
 $ cd Rinrini
 $ pip3 install -U requirements.txt
 ```
@@ -27,7 +27,7 @@ Rename `config.example.toml` to `config.toml`. Put all the variables and finally
 ```
 python3 -m Rinrini
 ```
-- Questions and help to be assisted in the [Rinrini support group](https://t.me/nina77chat).
+- Questions and help to be assisted in the [Rinrini support group](https://t.me/famhawiteinfosys).
 
 <hr>
 
@@ -48,9 +48,9 @@ python3 -m Rinrini
   
 <hr>
   
-### Kudos to these chads!
+### Credits Goes to!
 
-**The Creator(s)** - Neel, anii (t.me/meanii)
+**Stella Maker(s)** - Neel, anii (t.me/meanii)
 
 ### Contributors
 
