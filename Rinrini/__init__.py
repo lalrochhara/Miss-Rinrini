@@ -41,7 +41,7 @@ RinriniCli = Client(
     session_name='RinriniSession',
     api_id=config.telegram.api_id,
     api_hash=config.telegram.api_hash,
-    bot_token=config.telegram.bot.token
+    bot_token='6013121809:AAHtGIjmHi21hc_1RpaQ6aO3ovKByA3OUE4',
 )
 
 # MongoDatabase dns configurations
